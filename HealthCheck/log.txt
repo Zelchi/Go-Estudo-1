@@ -1,0 +1,6 @@
+[26/11/2025 03:05:03]|[002ms]|[false]|[https://localhost:8080/pizzas]
+[26/11/2025 03:05:06]|[001ms]|[false]|[https://localhost:8080/pizzas]
+[26/11/2025 03:05:09]|[001ms]|[false]|[https://localhost:8080/pizzas]
+[26/11/2025 03:05:16]|[001ms]|[true]|[http://localhost:8080/pizzas]
+[26/11/2025 03:05:19]|[000ms]|[true]|[http://localhost:8080/pizzas]
+[26/11/2025 03:05:22]|[000ms]|[true]|[http://localhost:8080/pizzas]
